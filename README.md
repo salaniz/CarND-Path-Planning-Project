@@ -1,7 +1,7 @@
 # **Path Planning**
 [![Udacity - Self-Driving Car NanoDegree](https://s3.amazonaws.com/udacity-sdc/github/shield-carnd.svg)](http://www.udacity.com/drive)
 
-Project to plan the path of a vehicles and decide when to change lanes.
+Project to plan the path of a vehicle and decide when to change lanes.
 
 Build guide: [BUILD.md](BUILD.md)  
 Source code: [src/](src/)  
